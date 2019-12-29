@@ -6,4 +6,4 @@ puts "Now, it being the year 2017, the president is #{current_president}."
 
 sound = "squeak"
 puts sound.upcase
-puts "#{sound.upcase}"
+puts "#{sound.up}"
